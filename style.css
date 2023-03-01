@@ -15,7 +15,7 @@ body {
 
 .text-typing p {
     margin:0px;
-    white-space:nowrap;
+    white-space:pre-wrap;
     overflow:hidden;
     animation:typing 2s steps(55,end) forwards,
               blink 1s infinite;
