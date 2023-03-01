@@ -4,8 +4,7 @@ body {
   display:flex;
   align-items:center;
   justify-content:center;
- background-color: #fad8ff;
-  
+  background:#ffccde;
 }
 .text-typing {
     height: 650px;
